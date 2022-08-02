@@ -21,6 +21,7 @@
 - Website: [Learn Python by Building 12 (freeCodeCamp)](https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/)
 - Website: [25 Python Projects for Beginners (freeCodeCamp)](https://www.freecodecamp.org/news/python-projects-for-beginners/)
 - Website: [13 Project Ideas for Intermediate Python Developers (RealPython.com)](https://realpython.com/intermediate-python-project-ideas/)
+- Website: [Tiny Python Projects (Ken Youens-Clark)](https://tinypythonprojects.com/)
 - Website: [The Big Book of Small Python Projects (Al Sweigart)](https://inventwithpython.com/bigbookpython/)
 - Website: [Creating APIs with Python (freeCodeCamp)](https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/)
 
