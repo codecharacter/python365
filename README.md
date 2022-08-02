@@ -18,3 +18,13 @@
 ## Python Projects
 
 - Researching and reviewing: TBD
+
+## Backlog / Courses
+
+- Udemy
+    - [100 Days of Code: Complete Python Pro Bootcamp - Dr Angela Yu](https://www.udemy.com/course/100-days-of-code/)
+- A Cloud Guru
+    - [Automating AWS with Lambda, Python, and Boto3 (11h)](https://learn.acloud.guru/course/d15d3060-fa99-4dbd-90c1-c1b9abb70f53/overview)
+    - [Bulding a Full Stack Serverless App on AWS](https://acloudguru.com/course/building-a-full-stack-serverless-application-on-aws)
+- Serverless Guru
+    - [Serverless: Zero to Paid Professional](https://training.serverlessguru.com/courses/serverless-from-zero-to-paid-professional)
