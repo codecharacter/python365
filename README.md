@@ -5,7 +5,10 @@
 - Book: [RealPython.com: Python Basics](https://realpython.com/learning-paths/python-basics-book/)
     - Reviewing to take notes and create a series of daily drills 
     - "RPI" = Rapid Python Improvement
-    - Target: ~15 sets of daily drills from Python Basics + 5 sets of Int-Adv daily drills - rotating in new drills/concepts
+    - Target: ~20 total sets of daily drills (i.e. Month of Lunches)
+        - ~15 from Python Basics 
+        - ~5 from Int-Adv concepts 
+        - rotating in new drills/concepts
 - TBD
 
 ## Round Resources
